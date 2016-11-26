@@ -732,6 +732,10 @@ ul {
 #socialicons ul {
 	list-style: none;
 }
+#socialicons ul li {
+	float: left;
+	margin: 8px;
+}
 
 ol {
   list-style-position: inside;
