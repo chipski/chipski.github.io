@@ -729,6 +729,9 @@ ul {
   list-style: disc;
   padding-left: 20px;
 }
+#socialicons ul {
+	list-style: none;
+}
 
 ol {
   list-style-position: inside;
