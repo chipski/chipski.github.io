@@ -489,12 +489,16 @@ header h2 {
 }
 
 #main-content {
-  float: left;
+  margin: 0;;
   width: 690px;
 }
 
 #main-content img {
   max-width: 100%;
+}
+
+#main-content main {
+  margin: 3%;
 }
 
 aside#sidebar {
