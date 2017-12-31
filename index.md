@@ -14,3 +14,4 @@ If you prefer to not use the automatic generator, push a branch named `gh-pages`
 Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 {% include links.md %}
+{% include_relative footer.md %}
